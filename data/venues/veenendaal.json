@@ -1,0 +1,53 @@
+{
+  "id": "veenendaal",
+  "name": "Veenendaal",
+  "viewBox": [270, 196, 580, 948],
+  "shapes": [
+    { "type": "rect", "x": 295, "y": 212, "w": 525, "h": 416, "class": "floor" },
+    { "type": "poly", "points": "295,628 752,628 752,676 610,676 610,855 620,855 620,926 495,926 495,900 295,900", "class": "floor" },
+    { "type": "poly", "points": "300,216 815,216 815,303 300,303", "class": "block" },
+    { "type": "poly", "points": "460,216 656,216 656,250 705,303 411,303 460,250", "class": "block-dark" },
+    { "type": "rect", "x": 472, "y": 305, "w": 176, "h": 46, "class": "area", "label": "Cateringplein" },
+    { "type": "rect", "x": 752, "y": 626, "w": 74, "h": 64, "class": "room", "label": "Balie" },
+    { "type": "rect", "x": 610, "y": 676, "w": 216, "h": 179, "class": "room" },
+    { "type": "rect", "x": 648, "y": 720, "w": 70, "h": 35, "class": "stairs" },
+    { "type": "rect", "x": 778, "y": 803, "w": 42, "h": 44, "class": "room", "label": "Lift" },
+    { "type": "rect", "x": 620, "y": 855, "w": 127, "h": 71, "class": "room" },
+    { "type": "rect", "x": 495, "y": 926, "w": 124, "h": 203, "class": "room", "label": "Constantijn", "sub": "Begane grond", "room": "constantijn" },
+    { "type": "rect", "x": 619, "y": 926, "w": 128, "h": 203, "class": "room", "label": "De Taverne", "sub": "Begane grond", "room": "de-taverne" },
+    { "type": "rect", "x": 747, "y": 855, "w": 79, "h": 274, "class": "parking", "label": "Parkeergarage", "vertical": true }
+  ],
+  "walls": [
+    "295,212 820,212 820,626",
+    "295,212 295,900 495,900 495,1129 826,1129 826,690"
+  ],
+  "pois": [
+    { "id": "ingang", "name": "Ingang", "icon": "door", "x": 818, "y": 735 },
+    { "id": "balie", "name": "Balie", "icon": "info", "x": 789, "y": 700, "hidden": true },
+    { "id": "garderobe", "name": "Garderobe", "icon": "coat", "x": 762, "y": 735 },
+    { "id": "koffie", "name": "Koffie & thee", "icon": "coffee", "x": 626, "y": 722 },
+    { "id": "trap", "name": "Trap naar Kleine zaal & Forum", "icon": "stairs", "x": 683, "y": 770, "label": "Kleine zaal en Forum" },
+    { "id": "wc", "name": "Toiletten (ook invalidentoilet)", "icon": "wc", "x": 683, "y": 890 },
+    { "id": "catering", "name": "Cateringplein", "icon": "food", "x": 560, "y": 362, "hidden": true }
+  ],
+  "rooms": {
+    "forum": { "poi": "trap", "note": "Neem de trap of lift naar de eerste verdieping." },
+    "kleine-zaal": { "poi": "trap", "note": "Neem de trap of lift naar de eerste verdieping." },
+    "constantijn": { "x": 557, "y": 932 },
+    "de-taverne": { "x": 612, "y": 912 }
+  },
+  "walkable": [
+    [297, 305, 521, 318],
+    [297, 634, 452, 41],
+    [297, 634, 312, 265],
+    [497, 855, 122, 70],
+    [612, 678, 212, 176],
+    [395, 616, 22, 22], [526, 616, 22, 22], [569, 616, 22, 22], [700, 616, 22, 22],
+    [640, 668, 100, 16]
+  ],
+  "obstacles": [
+    [472, 305, 176, 46],
+    [648, 720, 70, 35],
+    [778, 803, 42, 44]
+  ]
+}

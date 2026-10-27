@@ -1,0 +1,779 @@
+{
+  "id": "nurse-veenendaal",
+  "name": "NURSE. Festival",
+  "city": "Veenendaal",
+  "date": "",
+  "tagline": "De carrièredag voor studenten & starters in de zorg!",
+  "intro": [
+    "Wat leuk dat je aanwezig bent bij het NURSE. Festival! Samen met (zorg)organisaties uit alle uithoeken van de zorg, experts, ervaringsdeskundigen en natuurlijk met jou gaan we er een geweldige dag van maken.",
+    "Een dag vol inspiratie en nuttige informatie, maar natuurlijk ook ontspanning en gezelligheid! Maak een praatje met organisaties, volg interessante sessies en leer uit eerste hand hoe het is om als zorgprofessional te werken in verschillende sectoren.",
+    "Veel plezier met het ontdekken van de zorg!"
+  ],
+  "theme": {
+    "primary": "#00513b",
+    "accent": "#e89090"
+  },
+  "venue": "veenendaal",
+  "rooms": [
+    {
+      "id": "forum",
+      "name": "Forum",
+      "location": "Eerste verdieping (trap of lift)"
+    },
+    {
+      "id": "kleine-zaal",
+      "name": "Kleine zaal",
+      "location": "Eerste verdieping (trap of lift)"
+    },
+    {
+      "id": "constantijn",
+      "name": "Constantijn",
+      "location": "Begane grond"
+    },
+    {
+      "id": "de-taverne",
+      "name": "De Taverne",
+      "location": "Begane grond"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Workshopronde 1",
+      "start": "09:30",
+      "end": "10:15"
+    },
+    {
+      "name": "Workshopronde 2",
+      "start": "10:45",
+      "end": "11:30"
+    },
+    {
+      "name": "Workshopronde 3",
+      "start": "12:00",
+      "end": "12:45"
+    },
+    {
+      "name": "Workshopronde 4",
+      "start": "13:15",
+      "end": "14:00"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "forum-2",
+      "room": "forum",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "Maak kennis met ‘s Heeren Loo",
+      "speaker": "",
+      "partner": "s-heeren-loo",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "forum-3",
+      "room": "forum",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Kraamzorg: zit dit vak in jou?",
+      "speaker": "",
+      "partner": "naviva-kraamzorg",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde"
+      ]
+    },
+    {
+      "id": "kleine-zaal-1",
+      "room": "kleine-zaal",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "Een kijkje in de wereld van een militair verpleegkundige",
+      "speaker": "",
+      "partner": "ministerie-van-defensie",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde"
+      ]
+    },
+    {
+      "id": "kleine-zaal-2",
+      "room": "kleine-zaal",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "Omgaan met Emotie & Agressie",
+      "speaker": "Jaro Wolff",
+      "partner": "",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "kleine-zaal-3",
+      "room": "kleine-zaal",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Omgaan met Emotie & Agressie",
+      "speaker": "Jaro Wolff",
+      "partner": "",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "kleine-zaal-4",
+      "room": "kleine-zaal",
+      "start": "13:15",
+      "end": "14:00",
+      "title": "Maak kennis met maatschappelijke zorg bij het leger",
+      "speaker": "",
+      "partner": "ministerie-van-defensie",
+      "description": "",
+      "tags": [
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "constantijn-1",
+      "room": "constantijn",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "Reablement: zo help je een cliënt zelf de regie te houden",
+      "speaker": "",
+      "partner": "charim",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "constantijn-2",
+      "room": "constantijn",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "Ontdek hoe je beter contact maakt met je cliënt",
+      "speaker": "",
+      "partner": "jp-van-den-bent",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "constantijn-3",
+      "room": "constantijn",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Energiek in je werk: hoe houd je de zorg leuk?",
+      "speaker": "",
+      "partner": "izz",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "constantijn-4",
+      "room": "constantijn",
+      "start": "13:15",
+      "end": "14:00",
+      "title": "Maak kennis met ‘s Heeren Loo",
+      "speaker": "",
+      "partner": "s-heeren-loo",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "de-taverne-1",
+      "room": "de-taverne",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "Energiek in je werk: hoe houd je de zorg leuk?",
+      "speaker": "",
+      "partner": "izz",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    },
+    {
+      "id": "de-taverne-2",
+      "room": "de-taverne",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "Kraamzorg: zit dit vak in jou?",
+      "speaker": "",
+      "partner": "naviva-kraamzorg",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde"
+      ]
+    },
+    {
+      "id": "de-taverne-3",
+      "room": "de-taverne",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Van werkdruk naar werkgeluk",
+      "speaker": "",
+      "partner": "momo-medical",
+      "description": "",
+      "tags": [
+        "helpende",
+        "verzorgende",
+        "verpleegkunde",
+        "sociaal-werk",
+        "maatschappelijke-zorg"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "workshops",
+      "name": "Workshops",
+      "icon": "workshop",
+      "text": "Tijdens de vele workshops — gegeven door allerlei verschillende zorgorganisaties — leer je alle uithoeken van de zorgwereld kennen. Doe mee aan de meest interessante sessies, laat je inspireren en geef richting aan jouw zorgcarrière! Je bent geheel vrij om zelf een keuze te maken welke workshop je volgt. Waar wil jij meer over weten?"
+    },
+    {
+      "id": "fotomagneet",
+      "name": "Fotomagneet",
+      "icon": "camera",
+      "text": "Leg het moment vast! Zin in een leuke herinnering aan de beurs? Stap in de fotobooth, maak een gezellige foto en laat er meteen een leuke fotomagneet van maken. Een vrolijke herinnering om mee naar huis te nemen!",
+      "x": 626,
+      "y": 757
+    },
+    {
+      "id": "escaperoom",
+      "name": "Momo Escaperoom",
+      "icon": "escape",
+      "text": "Ontdek de Momo-app op een leuke en laagdrempelige manier! Stap in de Momo Escape Room en puzzel jezelf een weg door de app. Weet jij alle uitdagingen te kraken en op tijd te ontsnappen? Meld je aan bij de stand van Momo Medical en doe mee!",
+      "x": 473,
+      "y": 550
+    }
+  ],
+  "partners": [
+    {
+      "id": "lichen-sclerosus",
+      "name": "Lichen Sclerosus",
+      "stand": "1",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "imvorma",
+      "name": "Imvorma",
+      "stand": "2",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "naviva-kraamzorg",
+      "name": "Naviva Kraamzorg",
+      "stand": "3",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "apneu-vereniging",
+      "name": "Apneu vereniging",
+      "stand": "4",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "ggz-centraal",
+      "name": "GGz Centraal",
+      "stand": "5",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "icare",
+      "name": "Icare",
+      "stand": "6",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "dosell",
+      "name": "Dosell",
+      "stand": "7",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "altrecht",
+      "name": "Altrecht",
+      "stand": "8",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "ministerie-van-defensie",
+      "name": "Ministerie van Defensie",
+      "stand": "9",
+      "website": "",
+      "description": "",
+      "main": true
+    },
+    {
+      "id": "s-heeren-loo",
+      "name": "‘s Heeren Loo",
+      "stand": "10",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "lichen-planus-vereniging",
+      "name": "Lichen Planus Vereniging",
+      "stand": "11",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "zorgnetwerk-gain",
+      "name": "Zorgnetwerk GAIN",
+      "stand": "12",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "nvvr",
+      "name": "NVVR",
+      "stand": "13",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "bartimeus",
+      "name": "Bartimeus",
+      "stand": "14",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "charim",
+      "name": "Charim",
+      "stand": "15",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "buro-nexus",
+      "name": "Buro Nexus",
+      "stand": "16",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "momo-medical",
+      "name": "Momo Medical",
+      "stand": "17",
+      "website": "",
+      "description": "",
+      "main": true
+    },
+    {
+      "id": "jp-van-den-bent",
+      "name": "JP van den Bent",
+      "stand": "18",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "paradigma-groep",
+      "name": "paraDIGMA groep",
+      "stand": "19",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "izz",
+      "name": "IZZ",
+      "stand": "20",
+      "website": "",
+      "description": "",
+      "main": true
+    },
+    {
+      "id": "ambulance-wens",
+      "name": "Ambulance Wens",
+      "stand": "21",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "daan",
+      "name": "Daan",
+      "stand": "22",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "medsocks",
+      "name": "Medsocks",
+      "stand": "23",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "magic-match",
+      "name": "Magic Match",
+      "stand": "24",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "magic-match-academy",
+      "name": "Magic Match academy",
+      "stand": "25",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "vereniging-van-huntington",
+      "name": "Vereniging van Huntington",
+      "stand": "A",
+      "website": "",
+      "description": "",
+      "main": false
+    }
+  ],
+  "stands": [
+    {
+      "id": "20",
+      "label": "20",
+      "kind": "large",
+      "x": 391,
+      "y": 383,
+      "w": 57,
+      "h": 58
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "kind": "large",
+      "x": 529,
+      "y": 413,
+      "w": 58,
+      "h": 28
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "kind": "large",
+      "x": 529,
+      "y": 442,
+      "w": 28,
+      "h": 56
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "kind": "large",
+      "x": 560,
+      "y": 442,
+      "w": 28,
+      "h": 56
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "kind": "large",
+      "x": 296,
+      "y": 501,
+      "w": 28,
+      "h": 88
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "kind": "large",
+      "x": 390,
+      "y": 501,
+      "w": 58,
+      "h": 28
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "kind": "large",
+      "x": 638,
+      "y": 501,
+      "w": 58,
+      "h": 28
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "kind": "large",
+      "x": 445,
+      "y": 570,
+      "w": 58,
+      "h": 58
+    },
+    {
+      "id": "9b",
+      "label": "9",
+      "kind": "large",
+      "x": 619,
+      "y": 570,
+      "w": 58,
+      "h": 58
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "kind": "large",
+      "x": 490,
+      "y": 630,
+      "w": 28,
+      "h": 88
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "kind": "large",
+      "x": 490,
+      "y": 718,
+      "w": 28,
+      "h": 57
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "kind": "small",
+      "x": 790,
+      "y": 324,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "kind": "small",
+      "x": 790,
+      "y": 355,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "kind": "small",
+      "x": 790,
+      "y": 384,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "kind": "small",
+      "x": 296,
+      "y": 407,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "kind": "small",
+      "x": 638,
+      "y": 412,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "kind": "small",
+      "x": 669,
+      "y": 412,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "kind": "small",
+      "x": 790,
+      "y": 413,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "kind": "small",
+      "x": 421,
+      "y": 442,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "kind": "small",
+      "x": 638,
+      "y": 471,
+      "w": 29,
+      "h": 28
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "kind": "small",
+      "x": 559,
+      "y": 500,
+      "w": 29,
+      "h": 29
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "kind": "small",
+      "x": 790,
+      "y": 500,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "kind": "small",
+      "x": 790,
+      "y": 529,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "kind": "small",
+      "x": 790,
+      "y": 558,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "kind": "small",
+      "x": 790,
+      "y": 587,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "kind": "small",
+      "x": 295,
+      "y": 589,
+      "w": 29,
+      "h": 28
+    },
+    {
+      "id": "A",
+      "kind": "point",
+      "x": 684,
+      "y": 485,
+      "label": "A"
+    }
+  ],
+  "tags": [
+    {
+      "id": "helpende",
+      "name": "Helpende Z&W",
+      "color": "#3d9a6e"
+    },
+    {
+      "id": "verzorgende",
+      "name": "Verzorgende IG",
+      "color": "#f7cc52"
+    },
+    {
+      "id": "verpleegkunde",
+      "name": "Verpleegkunde",
+      "color": "#e89090"
+    },
+    {
+      "id": "sociaal-werk",
+      "name": "Sociaal Werk MBO & HBO",
+      "color": "#65629b"
+    },
+    {
+      "id": "maatschappelijke-zorg",
+      "name": "Maatschappelijke Zorg",
+      "color": "#d4622c"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#00513b">
+  <title>Hart voor Zorg Festivals</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,600;1,8..60,500;1,8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/app.css">
+  <style>
+    body { overflow: auto; }
+    .home { max-width: 760px; margin: 0 auto; padding-block: 28px 60px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+    .home h1 { font: italic 600 2.2rem/1.1 var(--font-display); color: var(--heading); margin: 0 0 6px; }
+    .events { list-style: none; padding: 0; margin: 24px 0; display: grid; gap: 12px; }
+    .events a { display: flex; gap: 16px; align-items: center; padding: 18px 20px; background: var(--primary); color: #fff; text-decoration: none; border-radius: 16px; }
+    .events a:hover { box-shadow: var(--shadow); }
+    .events strong { font: italic 600 1.35rem/1.2 var(--font-display); display: block; }
+    .events span { opacity: .85; font-size: .92rem; }
+    .events .go { margin-left: auto; }
+    .admin { color: var(--muted); font-size: .92rem; }
+  </style>
+</head>
+<body>
+  <main class="home">
+    <a class="brand" href="index.html" style="color:var(--heading)"><span class="brand-mark"></span><span class="brand-text">Hart voor Zorg</span></a>
+    <h1 style="margin-top:24px">Kies je festival</h1>
+    <p class="lede">Het interactieve programmaboekje: workshops, plattegrond, standhouders en je eigen planning.</p>
+    <ul class="events" id="events"></ul>
+    <p class="admin">Organisator? Ga naar <a href="beheer.html">beheer</a> om een festival in te vullen.</p>
+  </main>
+  <script type="module">
+    import { fetchJSON, esc, icon } from './assets/core.js';
+    const list = await fetchJSON('data/events/index.json');
+    document.getElementById('events').innerHTML = list.map(e => `<li><a href="event.html?e=${encodeURIComponent(e.id)}">
+      <div><strong>${esc(e.name)} ${esc(e.city)}</strong><span>${esc(e.audience)}${e.date ? ' · ' + new Date(e.date + 'T12:00').toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' }) : ''}</span></div>
+      <span class="go">${icon('route')}</span></a></li>`).join('');
+  </script>
+</body>
+</html>

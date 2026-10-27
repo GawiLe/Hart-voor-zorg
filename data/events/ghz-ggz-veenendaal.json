@@ -1,0 +1,692 @@
+{
+  "id": "ghz-ggz-veenendaal",
+  "name": "GHZ & GGZ Festival",
+  "city": "Veenendaal",
+  "date": "",
+  "tagline": "Het leuke & leerzame dagje uit voor alle professionals in de gehandicaptenzorg en geestelijke gezondheidszorg!",
+  "intro": [
+    "Welkom! Leuk dat je aanwezig bent op het GHZ & GGZ Festival! Samen met alle (zorg)organisaties, experts, ervaringsdeskundigen en natuurlijk met jou, gaan we er een geweldige dag van maken! Tijdens de vele workshops — gegeven door allerlei inspirerende sprekers — leer je alles over actuele thema’s. Doe mee aan de meest interessante sessies en laat je inspireren!",
+    "Natuurlijk is er ook meer dan genoeg ruimte voor ontspanning. Zo is er op de gezellige beursvloer van alles te doen. Doe mee aan leuke activiteiten, ga in gesprek met zorgorganisaties of collega’s en maak kennis met de nieuwste zorginnovaties.",
+    "Veel (leer)plezier!"
+  ],
+  "theme": {
+    "primary": "#00513b",
+    "accent": "#e89090"
+  },
+  "venue": "veenendaal",
+  "rooms": [
+    {
+      "id": "forum",
+      "name": "Forum",
+      "location": "Eerste verdieping (trap of lift)"
+    },
+    {
+      "id": "kleine-zaal",
+      "name": "Kleine zaal",
+      "location": "Eerste verdieping (trap of lift)"
+    },
+    {
+      "id": "constantijn",
+      "name": "Constantijn",
+      "location": "Begane grond"
+    },
+    {
+      "id": "de-taverne",
+      "name": "De Taverne",
+      "location": "Begane grond"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "Workshopronde 1",
+      "start": "09:30",
+      "end": "10:15"
+    },
+    {
+      "name": "Workshopronde 2",
+      "start": "10:45",
+      "end": "11:30"
+    },
+    {
+      "name": "Workshopronde 3",
+      "start": "12:00",
+      "end": "12:45"
+    },
+    {
+      "name": "Workshopronde 4",
+      "start": "13:15",
+      "end": "14:00"
+    },
+    {
+      "name": "Workshopronde 5",
+      "start": "14:30",
+      "end": "15:15"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "forum-1",
+      "room": "forum",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "De natuur als tweede spreekkamer: buiten behandelen in de GGZ",
+      "speaker": "",
+      "partner": "altrecht",
+      "description": ""
+    },
+    {
+      "id": "forum-2",
+      "room": "forum",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "De natuur als tweede spreekkamer: buiten behandelen in de GGZ",
+      "speaker": "",
+      "partner": "altrecht",
+      "description": ""
+    },
+    {
+      "id": "forum-3",
+      "room": "forum",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Energiek in je werk: hoe houd je de zorg leuk?",
+      "speaker": "",
+      "partner": "izz",
+      "description": ""
+    },
+    {
+      "id": "kleine-zaal-1",
+      "room": "kleine-zaal",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "Omgaan met Emotie & Agressie",
+      "speaker": "Jaro Wolff",
+      "partner": "",
+      "description": ""
+    },
+    {
+      "id": "kleine-zaal-2",
+      "room": "kleine-zaal",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "ABCD-community building: hoe help je cliënten meedoen in de buurt?",
+      "speaker": "",
+      "partner": "philadelphia-zorg",
+      "description": ""
+    },
+    {
+      "id": "kleine-zaal-3",
+      "room": "kleine-zaal",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Werkdruk of druk met werk?",
+      "speaker": "",
+      "partner": "philadelphia-zorg",
+      "description": ""
+    },
+    {
+      "id": "kleine-zaal-4",
+      "room": "kleine-zaal",
+      "start": "13:15",
+      "end": "14:00",
+      "title": "Luister naar je lijf: meer rust en energie in je werk",
+      "speaker": "Astrid de Bruijn",
+      "partner": "",
+      "description": ""
+    },
+    {
+      "id": "constantijn-1",
+      "room": "constantijn",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "Meer eigen regie voor cliënten met digitale tools",
+      "speaker": "",
+      "partner": "philadelphia-zorg",
+      "description": ""
+    },
+    {
+      "id": "constantijn-2",
+      "room": "constantijn",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "Meer eigen regie: praten met mensen, niet over mensen",
+      "speaker": "",
+      "partner": "s-heeren-loo",
+      "description": ""
+    },
+    {
+      "id": "constantijn-3",
+      "room": "constantijn",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Gelukkig is er ‘probleemgedrag’",
+      "speaker": "Geert Bettinger",
+      "partner": "geert-bettinger",
+      "description": ""
+    },
+    {
+      "id": "constantijn-4",
+      "room": "constantijn",
+      "start": "13:15",
+      "end": "14:00",
+      "title": "Gelukkig is er ‘probleemgedrag’",
+      "speaker": "Geert Bettinger",
+      "partner": "geert-bettinger",
+      "description": ""
+    },
+    {
+      "id": "constantijn-5",
+      "room": "constantijn",
+      "start": "14:30",
+      "end": "15:15",
+      "title": "Maak kennis met maatschappelijke zorg bij het leger",
+      "speaker": "",
+      "partner": "ministerie-van-defensie",
+      "description": ""
+    },
+    {
+      "id": "de-taverne-1",
+      "room": "de-taverne",
+      "start": "09:30",
+      "end": "10:15",
+      "title": "Crisisdienst van binnenuit: wat gebeurt er bij acute situaties?",
+      "speaker": "",
+      "partner": "ggz-centraal",
+      "description": ""
+    },
+    {
+      "id": "de-taverne-2",
+      "room": "de-taverne",
+      "start": "10:45",
+      "end": "11:30",
+      "title": "Intake onder de loep: welke informatie heb jij echt nodig?",
+      "speaker": "",
+      "partner": "nedap",
+      "description": ""
+    },
+    {
+      "id": "de-taverne-3",
+      "room": "de-taverne",
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Ontdek hoe je beter contact maakt met je cliënt",
+      "speaker": "",
+      "partner": "jp-van-den-bent",
+      "description": ""
+    },
+    {
+      "id": "de-taverne-4",
+      "room": "de-taverne",
+      "start": "13:15",
+      "end": "14:00",
+      "title": "Meer eigen regie: praten met mensen, niet over mensen",
+      "speaker": "",
+      "partner": "s-heeren-loo",
+      "description": ""
+    },
+    {
+      "id": "de-taverne-5",
+      "room": "de-taverne",
+      "start": "14:30",
+      "end": "15:15",
+      "title": "Hoe zorg jij goed voor jezelf bij hoge werkdruk?",
+      "speaker": "Anneke Kersten",
+      "partner": "",
+      "description": ""
+    }
+  ],
+  "activities": [
+    {
+      "id": "workshops",
+      "name": "Workshops",
+      "icon": "workshop",
+      "text": "Tijdens de vele workshops — gegeven door allerlei verschillende zorgorganisaties — leer je alle uithoeken van de zorgwereld kennen. Doe mee aan de meest interessante sessies, laat je inspireren en geef richting aan jouw zorgcarrière! Je bent geheel vrij om zelf een keuze te maken welke workshop je volgt. Waar wil jij meer over weten?"
+    },
+    {
+      "id": "fotomagneet",
+      "name": "Fotomagneet",
+      "icon": "camera",
+      "text": "Leg het moment vast! Zin in een leuke herinnering aan de beurs? Stap in de fotobooth, maak een gezellige foto en laat er meteen een leuke fotomagneet van maken. Een vrolijke herinnering om mee naar huis te nemen!",
+      "x": 627,
+      "y": 758
+    },
+    {
+      "id": "handmassage",
+      "name": "Handmassage",
+      "icon": "hand",
+      "text": "Even een momentje voor jezelf? Tijdens de beurs kun je genieten van een heerlijke handmassage. Laat de drukte even achter je, kom tot rust en ervaar hoe een korte massage kan zorgen voor ontspanning en een moment van aandacht voor jezelf.",
+      "x": 437,
+      "y": 471
+    }
+  ],
+  "partners": [
+    {
+      "id": "lichen-sclerosus",
+      "name": "Lichen Sclerosus",
+      "stand": "1",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "apneu-vereniging",
+      "name": "Apneu vereniging",
+      "stand": "2",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "ggz-centraal",
+      "name": "GGz Centraal",
+      "stand": "3",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "dosell",
+      "name": "Dosell",
+      "stand": "4",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "altrecht",
+      "name": "Altrecht",
+      "stand": "5",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "mijn-eigen-plan",
+      "name": "Mijn Eigen Plan",
+      "stand": "6",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "s-heeren-loo",
+      "name": "‘s Heeren Loo",
+      "stand": "7",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "ministerie-van-defensie",
+      "name": "Ministerie van Defensie",
+      "stand": "8",
+      "website": "",
+      "description": "",
+      "main": true
+    },
+    {
+      "id": "philadelphia-zorg",
+      "name": "Philadelphia Zorg",
+      "stand": "9",
+      "website": "",
+      "description": "",
+      "main": true
+    },
+    {
+      "id": "medilex",
+      "name": "Medilex",
+      "stand": "10",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "nedap",
+      "name": "Nedap",
+      "stand": "11",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "thomashuis",
+      "name": "Thomashuis",
+      "stand": "12",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "belevenis-tafel",
+      "name": "Belevenis Tafel",
+      "stand": "13",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "jp-van-den-bent",
+      "name": "JP van den Bent",
+      "stand": "14",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "medido",
+      "name": "Medido",
+      "stand": "15",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "izz",
+      "name": "IZZ",
+      "stand": "16",
+      "website": "",
+      "description": "",
+      "main": true
+    },
+    {
+      "id": "ambulance-wens",
+      "name": "Ambulance Wens",
+      "stand": "17",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "daan",
+      "name": "Daan",
+      "stand": "18",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "medsocks",
+      "name": "Medsocks",
+      "stand": "19",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "magic-match",
+      "name": "Magic Match",
+      "stand": "20",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "magic-match-academy",
+      "name": "Magic Match academy",
+      "stand": "21",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "jonic-solutions",
+      "name": "Jonic Solutions",
+      "stand": "A",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "tsc-connected-care",
+      "name": "TSC Connected Care",
+      "stand": "B",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "vereniging-van-huntington",
+      "name": "Vereniging van Huntington",
+      "stand": "C",
+      "website": "",
+      "description": "",
+      "main": false
+    },
+    {
+      "id": "geert-bettinger",
+      "name": "Geert Bettinger",
+      "stand": "D",
+      "website": "",
+      "description": "",
+      "main": false
+    }
+  ],
+  "stands": [
+    {
+      "id": "16",
+      "label": "16",
+      "kind": "large",
+      "x": 392,
+      "y": 383,
+      "w": 58,
+      "h": 58
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "kind": "large",
+      "x": 639,
+      "y": 383,
+      "w": 58,
+      "h": 28
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "kind": "large",
+      "x": 530,
+      "y": 413,
+      "w": 58,
+      "h": 28
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "kind": "large",
+      "x": 530,
+      "y": 442,
+      "w": 28,
+      "h": 57
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "kind": "large",
+      "x": 560,
+      "y": 442,
+      "w": 28,
+      "h": 57
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "kind": "large",
+      "x": 297,
+      "y": 500,
+      "w": 28,
+      "h": 88
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "kind": "large",
+      "x": 392,
+      "y": 500,
+      "w": 58,
+      "h": 29
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "kind": "large",
+      "x": 639,
+      "y": 501,
+      "w": 58,
+      "h": 28
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "kind": "large",
+      "x": 445,
+      "y": 570,
+      "w": 58,
+      "h": 58
+    },
+    {
+      "id": "8b",
+      "label": "8",
+      "kind": "large",
+      "x": 619,
+      "y": 570,
+      "w": 58,
+      "h": 58
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "kind": "large",
+      "x": 490,
+      "y": 630,
+      "w": 28,
+      "h": 87
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "kind": "large",
+      "x": 490,
+      "y": 718,
+      "w": 28,
+      "h": 58
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "kind": "small",
+      "x": 790,
+      "y": 324,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "kind": "small",
+      "x": 790,
+      "y": 354,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "kind": "small",
+      "x": 296,
+      "y": 411,
+      "w": 29,
+      "h": 29
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "kind": "small",
+      "x": 790,
+      "y": 415,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "kind": "small",
+      "x": 392,
+      "y": 442,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "kind": "small",
+      "x": 640,
+      "y": 471,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "kind": "small",
+      "x": 790,
+      "y": 499,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "kind": "small",
+      "x": 530,
+      "y": 500,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "kind": "small",
+      "x": 790,
+      "y": 587,
+      "w": 28,
+      "h": 29
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "kind": "small",
+      "x": 296,
+      "y": 589,
+      "w": 29,
+      "h": 28
+    },
+    {
+      "id": "A",
+      "kind": "point",
+      "x": 653,
+      "y": 456,
+      "label": "A"
+    },
+    {
+      "id": "B",
+      "kind": "point",
+      "x": 684,
+      "y": 456,
+      "label": "B"
+    },
+    {
+      "id": "C",
+      "kind": "point",
+      "x": 684,
+      "y": 486,
+      "label": "C"
+    },
+    {
+      "id": "D",
+      "kind": "point",
+      "x": 804,
+      "y": 558,
+      "label": "D"
+    }
+  ]
+}
